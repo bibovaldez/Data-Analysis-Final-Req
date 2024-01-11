@@ -1,8 +1,8 @@
-the power of graphs and charts
+The power of graphs and charts
 Data driven decisions-making
 Creative charts and graph to visualize data distribution and trends
 Barcharts, Line charts, Heatmaps, Histograms, Boxplots, Scatterplots
 
-creating interactive dashboards
+Creating interactive dashboards
 Pivot table slicers and filters 
 Visualizing Data With Pivot Charts
