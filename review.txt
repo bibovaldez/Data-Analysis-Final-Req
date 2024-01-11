@@ -1,8 +1,22 @@
-The power of graphs and charts
+*The power of graphs and charts
+    => Graphs and charts are essential tools for data visualization and interpretation. They transform raw data into visual forms, making it easier to understand patterns, trends, and relationships. They enhance efficiency by allowing quick comprehension of large data sets and their interrelationships. They aid in decision-making by providing clear comparisons and trends, and are particularly useful in fields like business and social sciences. They can also be persuasive, as people tend to be more influenced by graphical data than textual information. There are various types of graphs and charts, each suitable for different data types and relationships. In our data-driven world, the ability to interpret these visual representations is crucial.
+
+
 Data driven decisions-making
+    => https://asana.com/resources/data-driven-decision-making
+
+
+
 Creative charts and graph to visualize data distribution and trends
+    => Creating charts and graphs is basically about ensuring effective communication of data. The key to this is to choose the right type of chart or graph for the data, so that the information is presented clearly and effectively. The type of chart or graph used depends on the kind of data, the purpose of the visualization, and the audience. For example, a pie chart is ideal for showing the percentage distribution of data, while a line chart is better for showing trends over time. A bar chart is useful for comparing data across categories, while a scatter plot is ideal for showing relationships between variables. The choice of colors, fonts, and other design elements also plays a role in the effectiveness of the visualization. The goal is to make the data easy to understand and interpret, so that it can be used to make informed decisions.
+
 Barcharts, Line charts, Heatmaps, Histograms, Boxplots, Scatterplots
+    => https://www.data-to-viz.com/
 
 Creating interactive dashboards
+    => 
+
 Pivot table slicers and filters 
+    => 
+
 Visualizing Data With Pivot Charts
